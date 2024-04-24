@@ -1,1 +1,1 @@
-Step 1. duild debian_iso
+duild debian_iso
